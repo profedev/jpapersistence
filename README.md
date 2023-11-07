@@ -1,2 +1,2 @@
 # jpapersistence
-Proyecto NetBeans de implementación de persistencia con JPA
+Persistencia con JPA implementado con NetBeans y Maven
