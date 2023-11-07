@@ -1,0 +1,11 @@
+edu\ugd\persistencia\exceptions\PreexistingEntityException.class
+edu\ugd\persistencia\controlador\VentaJpaController.class
+edu\ugd\persistencia\exceptions\IllegalOrphanException.class
+edu\ugd\persistencia\exceptions\NonexistentEntityException.class
+edu\ugd\persistencia\modelo\Cliente_.class
+edu\ugd\persistencia\modelo\Venta_.class
+edu\ugd\persistencia\modelo\Cliente.class
+edu\ugd\persistencia\controlador\ClienteJpaController.class
+edu\ugd\persistencia\controlador\JpaUtil.class
+edu\ugd\persistencia\modelo\Venta.class
+edu\ugd\persistencia\Persistencia.class
